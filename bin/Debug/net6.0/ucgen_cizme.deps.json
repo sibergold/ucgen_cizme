@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ucgen_cizme/1.0.0": {
+        "runtime": {
+          "ucgen_cizme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ucgen_cizme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\OSMAN\ucgen_cizme\bin\Debug\net6.0\ucgen_cizme.exe
+C:\Users\OSMAN\ucgen_cizme\bin\Debug\net6.0\ucgen_cizme.deps.json
+C:\Users\OSMAN\ucgen_cizme\bin\Debug\net6.0\ucgen_cizme.runtimeconfig.json
+C:\Users\OSMAN\ucgen_cizme\bin\Debug\net6.0\ucgen_cizme.dll
+C:\Users\OSMAN\ucgen_cizme\bin\Debug\net6.0\ucgen_cizme.pdb
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.csproj.AssemblyReference.cache
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.AssemblyInfoInputs.cache
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.AssemblyInfo.cs
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.dll
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\refint\ucgen_cizme.dll
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.pdb
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ucgen_cizme.genruntimeconfig.cache
+C:\Users\OSMAN\ucgen_cizme\obj\Debug\net6.0\ref\ucgen_cizme.dll
